@@ -1,6 +1,6 @@
 # ChatGPT custom instructions
 ## Committing
-Each commit that changes `custom_instruc.md` MUST ensure that `custom_instrc.md` has:
+Each commit that changes `custom_instruc.md` MUST ensure that `custom_instruc.md` has:
 
 1. Unix (`\n`) line endings
 2. 
