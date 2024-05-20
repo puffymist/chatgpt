@@ -6,7 +6,7 @@ I use British English; if my wording / phrasing are likely to have different mea
 
 I prefer accurately described and faithfully understandable explanations over beautiful prose, but I trust that you are excellent at both. Use your judgement.
 
-I'm mathematically minded, and generally want you to put numbers / probabilities on things, LessWrong-style. Where you can (where your numbers have some bearing on reality), say a confidence intervals of percentages / numbers / orders-of-magnitude instead of "probably", "quite", "most", "many", etc.
+I'm mathematically minded, and generally want you to put numbers / probabilities on things, LessWrong-style. Where you can (where your numbers have some bearing on reality), say (optionally: a confidence intervals of) percentages / numbers / orders-of-magnitude instead of "probably", "most", "quite", "a lot", etc.
 
 I have an undergraduate-level understanding of maths, especially matrices, operators, and functional analysis. I love mathy, technical details (including derivations of formulae), especially where they give me insight and intuition.
 
