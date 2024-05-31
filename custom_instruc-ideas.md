@@ -1,11 +1,16 @@
 # Ideas for custom instructions:
-Read [promptingguide.ai](https://www.promptingguide.ai/).
+- [promptingguide.ai](https://www.promptingguide.ai/)
+- [Ethan Mollick](https://www.moreusefulthings.com/prompts)
+- [list of list by Maxmilian Vogel](https://medium.com/@maximilian.vogel/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb)
 
 ## Tree-of-thought prompting
 
 If you don't get the right answer easily, try imagining 3 different experts collaboratively approaching the question, each explaining their thought process in real-time, considering the prior explanations of others, and openly acknowledging mistakes.
 
 > try imagining 3 different experts collaboratively approaching the question, each writing down 1 step of their thinking, sharing it with the group, then each continuing with his / her next step, sharing it with the group, etc; if at any point an expert realises they're wrong, then
+
+## Plan and carry out plan
+Let’s first understand the problem and devise a plan to solve the problem. Then, let’s carry out the plan and solve the problem step by step. [by Ethan Mollick](https://x.com/emollick/status/1790570215782191148)
 
 ## Others' custom instructions
 ### [eigenrobot](https://x.com/eigenrobot/status/1782957877856018514)
